@@ -7,7 +7,7 @@ i'm currently learning Artificial Intelligence and Machine learning
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
-SQL
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chethanagm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chethanagm&theme=dark&hide_border=false)<br/>
